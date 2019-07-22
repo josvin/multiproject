@@ -1,0 +1,4 @@
+1. this is the original line
+   this is the original line when we created the master
+   this is the original line to be deleted
+   this is the original line to be edited
