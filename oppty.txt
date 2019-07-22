@@ -2,3 +2,8 @@
    this is the original line when we created the master
    this is the original line to be deleted
    this is the original line to be edited
+
+2. created golden_gate branch
+   this file is now modified in golden_gate branch
+
+
